@@ -1,0 +1,65 @@
+#firsttp{
+    word-spacing: 10px;
+    font-variant:small-caps;
+    text-align: left;
+    font-size: 80px; 
+    color: white;
+}
+
+
+#name
+{
+    font-size: 40px;
+    text-align: right;
+    color: white;
+}
+
+#page 
+{
+   
+    background:url("Capture.JPG");
+    background-size:auto;
+}
+
+
+.nav-area {
+	overflow:hidden;
+	top: 0;
+    width: 100%;
+    background-color:forestgreen;
+    margin-top: 0px;
+}
+  
+
+li{
+    
+float:left;
+}
+
+
+a{
+	padding:14px;
+    background-color:darkseagreen;
+    color:black;
+	font-family: cursive;
+	text-align: top;
+    display:flow-root;  
+}
+
+
+    
+  .nav-area li a:hover {
+	background-color: #bbb;
+	color: black;
+    border: solid;
+    border-color: black;
+    }
+ul{
+    
+    list-style:none;
+}
+
+
+
+
+
